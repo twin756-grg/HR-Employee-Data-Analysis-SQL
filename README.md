@@ -62,7 +62,6 @@ Advanced SQL
 - LAG() and LEAD()
 - Running Totals
 - Conditional Aggregation
-- EXISTS and NOT EXISTS
 - Views
 
 📊 Key Analysis Areas
@@ -83,14 +82,13 @@ This project aims to identify patterns in employee distribution, salary structur
 
 /HR-Employee-Data-Analysis-SQL/
 
-── 01_Dataset/
-── 02_Table_Creation/
-── 03_SQL_Queries/
-│-- 01_Basic_Analysis.sql
-│--02_Intermediate_Analysis.sql
-│--03_Advanced_Analysis.sql
-|--04_Query_Outputs/
-|--05_Business_Insights/
+ 01_Dataset/
+ 02_Table_Creation/
+ 03_SQL_Queries/
+•_Basic_Analysis.sql
+•_Intermediate_Analysis.sql
+•_Advanced_Analysis.sql •_Query_Outputs/
+•_Business_Insights/
 └── README.md
 
 🚀 Learning Outcomes
