@@ -80,15 +80,8 @@ This project aims to identify patterns in employee distribution, salary structur
 
 📁 Project Structure
 
-/HR-Employee-Data-Analysis-SQL/
-
- 01_Dataset/
- 02_Table_Creation/
- 03_SQL_Queries/
-•_Basic_Analysis.sql
-•_Intermediate_Analysis.sql
-•_Advanced_Analysis.sql •_Query_Outputs/
-•_Business_Insights/
+HR-Employee-Data-Analysis-SQL/
+├── HR_Employee_Data_Analysis.sql
 └── README.md
 
 🚀 Learning Outcomes
